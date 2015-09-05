@@ -1,0 +1,65 @@
+﻿@charset "UTF-8";
+
+/*
+	Transit by TEMPLATED
+	templated.co @templatedco
+	Released for free under the Creative Commons Attribution 3.0 license (templated.co/license)
+*/
+
+/* Basic */
+
+	body, input, select, textarea {
+		font-size: 12pt;
+	}
+
+	header.major h2 {
+		font-size: 2.25em;
+	}
+
+	header.major p {
+		font-size: 1.25em;
+	}
+
+/* Header */
+
+	#skel-layers-wrapper {
+		padding-top: 0;
+	}
+
+	#header {
+		display: none;
+	}
+
+/* Banner */
+
+	#banner {
+		padding: 12em 0em 12em;
+	}
+
+		#banner h2 {
+			font-size: 2.25em;
+		}
+
+		#banner p {
+			font-size: 1.25em;
+		}
+
+/* Layers */
+
+
+
+/* Footer */
+
+	#footer .copyright {
+		margin-top: 0;
+		text-align: center;
+	}
+
+	#footer .icons {
+		text-align: center;
+	}
+
+    #footer {
+		background: #383b43;
+		padding: 1em 0em .5em;
+	}

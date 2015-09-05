@@ -1,0 +1,21 @@
+{
+  "name": "Aggieland Coming Soon Page",
+  "version": "0.5.0",
+  "authors": [
+    "JT Bruch <info@aggielandwebsitedesign.com>"
+  ],
+  "description": "Aggieland Website Design Coming soon",
+  "main": "css/site.css",
+  "moduleType": [
+    "globals"
+  ],
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components"
+  ],
+  "dependencies": {
+    "angular": "latest",    
+    "bootstrap": "latest"    
+  }
+}
